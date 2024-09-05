@@ -1,0 +1,5 @@
+{
+  "title": "Nuxt Content",
+  "link": "https://content.nuxtjs.org/",
+  "description": "Parses `.md`, `.json`, `.yaml`, and `.csv` files to create a powerful data layer for your application. Use Vue Components with the MDC syntax. Particularly useful for blogs and documentation sites, and for forms that reference data to calculate prices, etc."
+}

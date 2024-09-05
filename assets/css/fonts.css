@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'elegant-typewriter';
+  src: url(/fonts/elegant-typewriter-regular.woff2) format('woff2');
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'elegant-typewriter';
+  src: url(/fonts/elegant-typewriter-bold.woff2) format('woff2');
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'elegant-typewriter';
+  src: url(/fonts/elegant-typewriter-thin.woff2) format('woff2');
+  font-weight: 100;
+  font-stretch: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'old-newspaper';
+  src: url(/fonts/OldNewspaperTypes.woff2) format('woff2');
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'chomsky';
+  src: url(/fonts/Chomsky.woff2) format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}

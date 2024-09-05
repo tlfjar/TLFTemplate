@@ -1,0 +1,5 @@
+{
+  "title": "Vue Starport",
+  "link": "https://github.com/antfu/vue-starport",
+  "description": "Shared Vue component across routes with animations. This is already integrated into the project, no imports necessary. It is hard to explain why this is such a cool feature, so I recommend checking out the live demo. The GitHub repo has a note on it that View Transitions API may render this component unnecessary, but View Transitions still lacks some browser support and it seems more complicated that Starport."
+}

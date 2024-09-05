@@ -1,0 +1,5 @@
+{
+  "title": "Nuxt Image",
+  "link": "https://image.nuxt.com/",
+  "description": "Plug-and-play image optimization for Nuxt apps. Resize and transform your images using built-in optimizer or your favorite images CDN. Can resize and reformat images with simple directives. Also supports lazy loading and responsive images."
+}

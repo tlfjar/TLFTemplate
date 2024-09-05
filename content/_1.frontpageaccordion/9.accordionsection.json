@@ -1,0 +1,5 @@
+{
+  "title": "VueUse",
+  "link": "https://vueuse.org/",
+  "description": "Collection of Essential Vue Composition Utilities. Essential is the key word here. If you are trying to do something structural in your view components, there is a good chance that VueUse has a composition function for it. It is a great way to keep your components clean and simple."
+}

@@ -1,0 +1,5 @@
+{
+  "title": "ESLint",
+  "link": "https://eslint.nuxt.com/",
+  "description": "Generates a project-aware ESLint flat config and provides the ability to optionally run ESLint check along side the dev server. It is what I've always used for linting. Feel free to replace it if you have a preference for another linter, but keep in mind that you will have to pull out the eslint config and the vscode settings relevant to eslint."
+}
