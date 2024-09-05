@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   theme: {
     fontFamily: {
-      // this enables the custom fonds in `assets/fonts.css`
+      // this enables the custom fonts in `assets/fonts.css`
       headline: ['chomsky', 'old-newspaper'],
       body: 'elegant-typewriter',
     },
