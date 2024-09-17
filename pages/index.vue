@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <section class="grid auto-rows-auto grid-cols-1 max-w-2xl gap-2">
+  <section class="grid auto-rows-auto grid-cols-1 gap-2">
     <div class="flex flex-col items-center justify-center">
       <h1 class="text-4xl text-[#063] font-bold font-body">
         TLFuxt
