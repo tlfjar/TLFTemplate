@@ -18,7 +18,7 @@
     "@nuxt/image": "^1.7.0",
     "@nuxtjs/seo": "2.0.0-rc.19",
     "@pinia/nuxt": "^0.5.3",
-    "@vueuse/nuxt": "^11.0.1",
+    "@vueuse/nuxt": "^11.1.0",
     "nuxt": "^3.12.4",
     "radix-vue": "^1.9.4",
     "vue": "latest",
